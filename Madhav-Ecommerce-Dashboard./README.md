@@ -50,4 +50,4 @@ This dashboard helps the business owner make data-driven decisions by providing 
 ---
 
 ## 📷 Dashboard Preview
-
+![Dashboard](screenshots/dashboard.png)
